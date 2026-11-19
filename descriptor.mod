@@ -3,5 +3,5 @@ tags={
 	"Character Focuses"
 }
 name="BCK - Champion"
-supported_version="1.20.*"
+supported_version="1.21.*"
 remote_file_id="3173335058"
